@@ -8,7 +8,7 @@ public class BlehBleh implements CommandLineRunner {
 
 	@Override
 	public void run(String... args) throws Exception {
-		System.out.println("+++++++++++++++++++++BlehBleh+++++++++++++++++++++++++++");
+		System.out.println("+++++++++++++++++++++BlehBleh+++++++++++++++++++");
 		Thread.sleep(5000);
 	}
 }
